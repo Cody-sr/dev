@@ -1,0 +1,509 @@
+{
+  "ohStudio": {
+    "brandName": "ohStudio",
+    "title": "A brand and product designer working with clients globally",
+    "list": ["Expertise", "Branding", "Product", "Design Systems"]
+  },
+
+  "projects": [
+    {
+        "id": 0,
+        "projectName": "Aire",
+        "projectImage": "src/assets/images/projec-images/aire_06_kfr022WaJ8YJUyZFmdwCB3pXhs.webp",
+        "details": {
+          "lable": "Aire",
+          "title": "A better way to deal with every day",
+          "overview": "I worked with Aire to develop a brand that firmly positions them as a premium lifestyle brand. The name Aire was inspired by the companies conception in Aire Street Workshops, in addition to aligning well with how the product makes you feel. The wordmark has been designed to convey the feeling of ease and simplicity whilst encapsulating a premium feel. Aire believes in the power of CBD to help people manage the day to day a little better — so I developed a strap-line which embodied that message. A better way to deal with every day.",
+          "list": [
+            { "code": "Client", "name": "Aire" },
+            { "code": "studio", "name": "OH & CO" },
+            { "code": "role", "name": "Creative Director" },
+            { "code": "focus", "name": "Brand Identity" }
+          ],
+          "images": [
+            {
+              "id": 1,
+              "hrefImg": "src/assets/images/aire/01_mGxIaDhGjujbfshox24OyOTIc9E.webp",
+              "wide": true
+            },
+            {
+              "id": 2,
+              "hrefImg": "src/assets/images/aire/02_KAXNtzMy2AYmtasCLdNEKIU2wI.webp",
+              "wide": false
+            },
+            {
+              "id": 3,
+              "hrefImg": "src/assets/images/aire/03_yU8ZKQFThmUFqfC2FYZqcGbWw.webp",
+              "wide": false
+            },
+            {
+              "id": 4,
+              "hrefImg": "src/assets/images/aire/04_1ZNxQVbQdraZjjmKyBwxrioAwvc.webp",
+              "wide": false
+            },
+            {
+              "id": 5,
+              "hrefImg": "src/assets/images/aire/05_wQuOrcu37DXYfaXafEJ6y6Uo.webp",
+              "wide": false
+            },
+            {
+              "id": 6,
+              "hrefImg": "src/assets/images/aire/06_kfr022WaJ8YJUyZFmdwCB3pXhs.webp",
+              "wide": true
+            },
+            {
+              "id": 7,
+              "hrefImg": "src/assets/images/aire/07_DmSvG2vRgGHkjr2izJsUcpWPs.webp",
+              "wide": true
+            },
+            {
+              "id": 8,
+              "hrefVid": "src/assets/vedios/08_XyMJtcTk4JgOgG8gvE7Xo9ssy3E.webm",
+              "wide": true
+            },
+            {
+              "id": 9,
+              "hrefImg": "src/assets/images/aire/09_pRhnMswaeFkyMfJX0Hwwh0QTQ.webp",
+              "wide": true
+            },
+            {
+              "id": 11,
+              "hrefImg": "src/assets/images/aire/11_XaVdbFmdnBjuIAO6uR2K4xlQ.webp",
+              "wide": false
+            },
+            {
+              "id": 12,
+              "hrefImg": "src/assets/images/aire/12_i3WtVhahDcZd4OywmX9rXkq7yPo.webp",
+              "wide": false
+            },
+            {
+              "id": 10,
+              "hrefImg": "src/assets/images/aire/10_3wAtzo0qvmxyJhsWXvruyTZtRU.webp",
+              "wide": true
+            }
+          ]
+      }
+    },
+    {
+      "id": 1,
+      "projectName": "Correlated",
+      "projectImage": "src/assets/images/projec-images/correlated_01_QVKFKT3dyGxloXfzzpurVKNMM6M.webp",
+    
+      "details": {
+        "lable": "Correlated",
+        "title": "From onboarding to automation. A seamless user journey",
+        "overview": "I helped the Correlated team improve functionality across their platform and develop a series of new features, all backed up by a robust and distinct design system.",
+        "list": [
+          { "code": "Client", "name": "Correlated" },
+          { "code": "studio", "name": "Friendly Studio" },
+          { "code": "role", "name": "Lead Designer" },
+          { "code": "focus", "name": "Product Design" }
+        ],
+        "images": [
+          {
+            "id": 1,
+            "hrefImg": "src/assets/images/correlated/01_QVKFKT3dyGxloXfzzpurVKNMM6M.webp",            
+            "wide": true
+          },
+          {
+            "id": 2,
+            "hrefImg": "src/assets/images/correlated/03_1p2fh6pUhyWU5wo0HuUhGBfq0.webp",
+            "wide": false
+          },
+          {
+            "id": 3,
+            "hrefImg": "src/assets/images/correlated/04_vbrM0VmAH5DTwyk1LqtQmxL51s.webp",
+            "wide": false
+          },
+          {
+            "id": 4,
+            "hrefImg": "src/assets/images/correlated/02_68Iqel3D27Y4JufI8Uy5OvefWbc.webp",
+            "wide": true
+          },
+          {
+            "id": 7,
+            "hrefImg": "src/assets/images/correlated/07_0nNRgAlDOtkHlL9Zy0g89qxnVBw.webp",
+            "wide": false
+          },
+          {
+            "id": 8,
+            "hrefImg": "src/assets/images/correlated/08_thOwwRtQEmgMsCmiIA6Pz32uHM.webp",
+            "wide": false
+          },
+          {
+            "id": 5,
+            "hrefImg": "src/assets/images/correlated/05_tN8jTohPTXn5uQRpJxyX92NH4MI.webp",
+            "wide": true
+          },
+          {
+            "id": 6,
+            "hrefImg": "src/assets/images/correlated/06_eEacfQIEXZe97VYUR5elLz6s4.webp",
+            "wide": true
+          },
+          
+          {
+            "id": 10,
+            "hrefImg": "src/assets/images/correlated/10_As3sZJW3p7ZozhuXUdkNipZNg.webp",
+            "wide": false
+          },
+          {
+            "id": 11,
+            "hrefImg": "src/assets/images/correlated/11_cWbxOdQuIb89b5L55hjKxdF7Jhw.webp",
+            "wide": false
+          },
+          {
+            "id": 9,
+            "hrefImg": "src/assets/images/correlated/09_lFrqFqQHwbgjUIEdNoDqx0ByQbA.webp",
+            "wide": true
+          },
+          {
+            "id": 12,
+            "hrefImg": "src/assets/images/correlated/12_7FjwLrD1PXJxWNaJnIs1otLhFI.webp",
+            "wide": true
+          },
+          {
+            "id": 13,
+            "hrefImg": "src/assets/images/correlated/13_QrI9yPy4AnRCf2rL3ZPEXaqeD2A.webp",
+            "wide": false
+          },
+          {
+            "id": 14,
+            "hrefImg": "src/assets/images/correlated/14_aiUDhsoiJ5PXdrBkmKQaCCyt8NE.webp",
+            "wide": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "projectName": "Channel 5",
+      "projectImage": "src/assets/images/projec-images/my5_1_AX9PukosNfGVcfXw3YapiYpl9g.webp",
+    
+      "details": {
+        "lable": "Channel 5",
+        "title": "A new interface for the My5 app",
+        "overview": "I worked with UI Centric and the team at Channel 5 to redesign their My5 platform across iOS and Android, all backed up by a robust and distinct design system.",
+        "list": [
+          { "code": "Client", "name": "Channel 5" },
+          { "code": "studio", "name": "UI Centric" },
+          { "code": "role", "name": "Senior Designer" },
+          { "code": "focus", "name": "Product Design" }
+        ],
+        "images": [
+          {
+            "id": 1,
+            "hrefImg": "src/assets/images/my5/1_AX9PukosNfGVcfXw3YapiYpl9g.webp",
+            "wide": true
+          },
+          {
+            "id": 3,
+            "hrefImg": "src/assets/images/my5/3_0KA0uiQb1NQkiRNqhWFBA94M6c.webp",
+            "wide": false
+          },
+          {
+            "id": 4,
+            "hrefImg": "src/assets/images/my5/4_LSoDC8ZFPVuElz9MuIiCBy074.webp",
+            "wide": false
+          },
+          {
+            "id": 2,
+            "hrefImg": "src/assets/images/my5/2_jpsrtmn5ap2vvXaeFrEIH8inMSU.webp",
+            "wide": true
+          },
+          {
+            "id": 5,
+            "hrefImg": "src/assets/images/my5/5_1bRUMuQGAUplFne04eTlsDVpfQo.webp",
+            "wide": true
+          },
+          {
+            "id": 6,
+            "hrefImg": "src/assets/images/my5/6_lJE1pT1oMrucwvL3GnCeJh7KM.webp",
+            "wide": false
+          },
+          {
+            "id": 7,
+            "hrefImg": "src/assets/images/my5/7_AOvySvXQ6r9DqoxddAF7AqkblUE.webp",
+            "wide": false
+          },
+          {
+            "id": 8,
+            "hrefImg": "src/assets/images/my5/8_x7Tlx2PrrARHFwNS2AnmQ1tyeUM.webp",
+            "wide": true
+          },
+          {
+            "id": 9,
+            "hrefImg": "src/assets/images/my5/9_hpIuUz2xC23ORVJQSwmbGjDk.webp",
+            "wide": false
+          },
+          {
+            "id": 10,
+            "hrefImg": "src/assets/images/my5/10_Yntl0o6Eyr2t919TsaJoiLBF78.webp",
+            "wide": false
+          },
+          {
+            "id": 11,
+            "hrefImg": "src/assets/images/my5/11_kesWJRzDkSLkSphTLLmr0NtmE.webp",
+            "wide": true
+          },
+          {
+            "id": 12,
+            "hrefImg": "src/assets/images/my5/12_MEXS8GkZVeeiTZ3C2pmNw6k0.webp",
+            "wide": false
+          },
+          {
+            "id": 13,
+            "hrefImg": "src/assets/images/my5/13_R1eCvxfLzWsDDDFfiCefJ2qOOI.webp",
+            "wide": false
+          },
+          {
+            "id": 14,
+            "hrefImg": "src/assets/images/my5/14_7o4595twkcrtmzD2h79WFul53g.webp",
+            "wide": true
+          }
+        ]
+    }
+    },
+    {
+      "id": 3,
+      "projectName": "Ronald Abram",
+      "projectImage": "src/assets/images/projec-images/ronald_abram_BAXywubxN8sAhfJg3AgGgFI.webp",
+    
+      "details": {
+        "lable": "Ronald Abram",
+        "title": "A luxury jewellery brand rich in heritage",
+        "overview": "I crafted a series of user interfaces for their ecommerce platform. To supplement the designs I also art directed a range of imagery inspired by Monokel's Scandinavian heritage.",
+        "list": [
+          { "code": "Client", "name": "Ronald Abram" },
+          { "code": "studio", "name": "Onstate" },
+          { "code": "role", "name": "Lead Designer" },
+          { "code": "focus", "name": "Brand Identity" }
+        ],
+        "images": [
+          {
+            "id": 1,
+            "hrefImg": "src/assets/images/ronald-abram/BAXywubxN8sAhfJg3AgGgFI.webp",
+            "wide": true
+          },
+          {
+            "id": 2,
+            "hrefImg": "src/assets/images/ronald-abram/2_yoldrzeYkHYdQSQMr82toErhFuc.webp",
+            "wide": false
+          },
+          {
+            "id": 3,
+            "hrefImg": "src/assets/images/ronald-abram/3_mM8gWL8EZhuRFFH9zKiCjeydL2M.webp",
+            "wide": false
+          },
+          {
+            "id": 4,
+            "hrefImg": "src/assets/images/ronald-abram/4_PYK92ERzf6TBoL0o7RHEbUjl0.webp",
+            "wide": true
+          },
+          {
+            "id": 5,
+            "hrefVid": "src/assets/vedios/1_Ibg2qaJfhWWgXfDgOI3At8X33.webm",
+            "wide": false
+          },
+          {
+            "id": 6,
+            "hrefImg": "src/assets/images/ronald-abram/6_yUBwN4cGXcV7prUYFZkecjj0.webp",
+            "wide": false
+          },
+          {
+            "id": 7,
+            "hrefImg": "src/assets/images/ronald-abram/7_5w8jjH7XOWjTGCUGjlS64opM7E.webp",
+            "wide": true
+          },
+          {
+            "id": 8,
+            "hrefImg": "src/assets/images/ronald-abram/8_MJ7bMMlAOq861TmG9oRLJde8U.webp",
+            "wide": true
+          },
+          {
+            "id": 9,
+            "hrefImg": "src/assets/images/ronald-abram/9_acSEGCDjtyv11F6Tu4u13jg3U.webp",
+            "wide": false
+          },
+          {
+            "id": 10,
+            "hrefVid": "src/assets/vedios/10_ClvUaGQRcQmltKtJs4rmnPkRIoY.webm",
+            "wide": false
+          },
+          {
+            "id": 11,
+            "hrefImg": "src/assets/images/ronald-abram/11_PsFtrMsfil25WM1W3mnUe2okoI.webp",
+            "wide": true
+          },
+          {
+            "id": 12,
+            "hrefImg": "src/assets/images/ronald-abram/12_r6iesplPUVaNWHGp9wkV51rK9Y.webp",
+            "wide": false
+          },
+          {
+            "id": 13,
+            "hrefImg": "src/assets/images/ronald-abram/13_FseFmzFiyWaYDrJAXdokR2Dr0.webp",
+            "wide": false
+          },
+          {
+            "id": 14,
+            "hrefImg": "src/assets/images/ronald-abram/14_ysuIdxwL4m7kIB9JVcHuKgYm8.webp",
+            "wide": true
+          }
+        ]
+    }
+    },
+    {
+      "id": 4,
+      "projectName": "Propeller",
+      "projectVideo": "src/assets/vedios/propeller.webm",
+    
+      "details": {
+        "lable": "Propeller",
+        "title": "Tap into your untapped innovation",
+        "overview": "I worked with Propeller to design their brand identity and design language. The name Propeller was inspired by the companies overall objective — to propel great business ideas. The identity was designed with this very objective in mind. The logomark is formed from a propeller shape to create a unique letter P. In addition to the brand I also worked with Propeller to develop their product interface as well as their website visuals.",
+        "list": [
+          { "code": "Client", "name": "Propeller" },
+          { "code": "studio", "name": "OH & CO" },
+          { "code": "role", "name": "Lead Designer" },
+          { "code": "focus", "name": "Brand & Digital" }
+        ],
+        "images": [
+          {
+            "id": 1,
+            "hrefImg": "src/assets/images/propeller/1_wlbfFBheTMh3h0Nk46CBg6CbNbI.webp",
+            "wide": true
+          },
+          {
+            "id": 3,
+            "hrefImg": "src/assets/images/propeller/3_OLPzijd3i0gdLvmeqreUA1NHNKY.webp",
+            "wide": false
+          },
+          {
+            "id": 4,
+            "hrefVid": "src/assets/vedios/propeller.webm",
+            "wide": false
+          },
+          {
+            "id": 2,
+            "hrefImg": "src/assets/images/propeller/2_E2VaTaeFV6C7Cl9w2eCWuHi2E.webp",
+            "wide": true
+          },
+          {
+            "id": 5,
+            "hrefImg": "src/assets/images/propeller/5_n7Lakh6lcz5IRZsijp9ZinTobc.webp",
+            "wide": true
+          },
+          {
+            "id": 6,
+            "hrefImg": "src/assets/images/propeller/6_zTPBLP8pt0gy8fzqit3ECYhs5G8.webp",
+            "wide": false
+          },
+          {
+            "id": 7,
+            "hrefVid": "src/assets/vedios/bvmd2yOI9sysPyNqLWH8r9ZNZqI~qTi6o8ufloUtep8Zkt5RZn9fDv52Y6z4HyNT3YprkXw.webm",
+            "wide": false
+          },
+          {
+            "id": 8,
+            "hrefImg": "src/assets/images/propeller/8_6wOUqePLa2EwmKqnr1uqkR53zM0.webp",
+            "wide": true
+          },
+          {
+            "id": 9,
+            "hrefImg": "src/assets/images/propeller/9_mV2dg6VbR2YVylKeN4Es8Q2dkU.webp",
+            "wide": true
+          },
+          {
+            "id": 10,
+            "hrefImg": "src/assets/images/propeller/10_3tXnRtFyxJ30Ula4X88FdUE3NYM.webp",
+            "wide": false
+          },
+          {
+            "id": 11,
+            "hrefVid": "src/assets/vediospropeller.webm",
+            "wide": false
+          },
+          {
+            "id": 12,
+            "hrefImg": "src/assets/images/propeller/12_XroOf0fINQpZ1nLwNyBNeeABNHI.webp",
+            "wide": true
+          }
+        ]
+    }
+    },
+    {
+      "id": 5,
+      "projectName": "NYCB",
+      "projectVideo": "src/assets/vedios/nycb.webm",
+    
+      "details": {
+        "lable": "NYCB",
+        "title": "A new website for an iconic dance company",
+        "overview": "New York City Ballet is one of the foremost dance companies in the world, with a roster of spectacular dancers and an unparalleled repertory. I worked with Made Media to design their new website.",
+        "list": [
+          { "code": "Client", "name": "NYCB" },
+          { "code": "studio", "name": "Made Media" },
+          { "code": "role", "name": "Lead Designer" },
+          { "code": "focus", "name": "Digital" }
+        ],
+        "images": [
+          {
+            "id": 1,
+            "hrefImg": "src/assets/images/nybc/1_o0SeBQbFQX8NnuJL1VTdnxInBc.webp",
+            "wide": true
+          },
+          {
+            "id": 3,
+            "hrefImg": "src/assets/images/nybc/3_haHuoIBUEPQLkjNYdVmdfoMqvpU.webp",
+            "wide": false
+          },
+          {
+            "id": 4,
+            "hrefImg": "src/assets/images/nybc/4_TfBcQxbPEEJdxR4Vv62B2H6k78I.webp",
+            "wide": false
+          },
+          {
+            "id": 2,
+            "hrefImg": "src/assets/images/nybc/2_Xp6BNsNG89yIxqJT2wx6fuQL7A.webp",
+            "wide": true
+          },
+          {
+            "id": 5,
+            "hrefImg": "src/assets/images/nybc/5_kGfpeZG4s63jKJbjSnUV4OXGPKM.webp",
+            "wide": true
+          },
+          {
+            "id": 6,
+            "hrefImg": "src/assets/images/nybc/6_Eb68jEdpkNF6VPlt6UBrjxWDumY.webp",
+            "wide": false
+          },
+          {
+            "id": 7,
+            "hrefImg": "src/assets/images/nybc/7_qzR2HTY2AcKBFJKq0hXUvWFUbnI.webp",
+            "wide": false
+          },
+          {
+            "id": 8,
+            "hrefImg": "src/assets/images/nybc/8_eUjxg31vwxTibEdt6vYIOlRScwo.webp",
+            "wide": true
+          },
+          {
+            "id": 9,
+            "hrefImg": "src/assets/images/nybc/9_tjLrByuA7trTYeHmVt4nHMJfRc.webp",
+            "wide": false
+          },
+          {
+            "id": 10,
+            "hrefImg": "src/assets/images/nybc/10_XP4UORXnN4Oaa1WWnLt1Rb4.webp",
+            "wide": false
+          },
+          {
+            "id": 11,
+            "hrefVid": "src/assets/vedios/nycb.webm",
+            "wide": true
+          }
+        ]
+    }
+    }
+  ]
+}
